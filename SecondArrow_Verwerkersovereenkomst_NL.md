@@ -1,7 +1,7 @@
 
-# Standaard Verwerkersovereenkomst van Second Arrow – versie 2025
+# Standaard Verwerkersovereenkomst van Second Arrow – versie 2025.1
 
-**Second Arrow**, gevestigd te Fladderiepvliet 1, 3545 AJ Utrecht, ingeschreven bij de Kamer van Koophandel onder nummer 96693363, hierna te noemen: *Verwerker*.
+**Second Arrow**, gevestigd te Box D5902, Kwikstaartlaan 42, 3704GS Zeist ingeschreven bij de Kamer van Koophandel onder nummer 96693363, hierna te noemen: *Verwerker*.
 
 Deze standaard verwerkersovereenkomst is van toepassing op alle diensten die Second Arrow levert waarbij mogelijk persoonsgegevens worden verwerkt ten behoeve van haar klanten, in het bijzonder consultancy‑, software development-, audit‑ en code‑reviewdiensten.
 
@@ -46,7 +46,7 @@ Na beëindiging van de overeenkomst zal Verwerker alle persoonsgegevens wissen o
 | Onderdeel | Inhoud |
 |------------|--------|
 | **Naam verwerker** | Second Arrow |
-| **Adres** | Fladderiepvliet 1, 3545 AJ Utrecht |
+| **Adres** | Box D5902, Kwikstaartlaan 42, 3704GS Zeist |
 | **KvK-nummer** | 96693363 |
 | **Contactpersoon privacy** | info@secondarrow.io |
 | **Diensten** | Consultancy, software development, audit, code review, en technische analyse van softwareprojecten |
@@ -62,5 +62,5 @@ Na beëindiging van de overeenkomst zal Verwerker alle persoonsgegevens wissen o
 
 ---
 
-**Versie:** 2025  
+**Versie:** 2025.1
 **Uitgever:** Second Arrow – info@secondarrow.io

@@ -1,7 +1,7 @@
 
-# Standard Data Processing Agreement of Second Arrow – version 2025
+# Standard Data Processing Agreement of Second Arrow – version 2025.1
 
-**Second Arrow**, located at Fladderiepvliet 1, 3545 AJ Utrecht, registered with the Dutch Chamber of Commerce under number 96693363, hereinafter referred to as *Processor*.
+**Second Arrow**, located at Box D5902, Kwikstaartlaan 42, 3704GS Zeist, The Netherlands, registered with the Dutch Chamber of Commerce under number 96693363, hereinafter referred to as *Processor*.
 
 This standard data processing agreement applies to all services provided by Second Arrow in which personal data may be processed on behalf of its clients, particularly consultancy, software development, audit, and code review services.
 
@@ -46,7 +46,7 @@ Upon termination of the agreement, the Processor shall delete or return all pers
 | Item | Details |
 |------|----------|
 | **Processor name** | Second Arrow |
-| **Address** | Fladderiepvliet 1, 3545 AJ Utrecht |
+| **Address** | Box D5902, Kwikstaartlaan 42, 3704GS Zeist, The Netherlands |
 | **Chamber of Commerce (KvK)** | 96693363 |
 | **Privacy contact** | info@secondarrow.io |
 | **Services** | Consultancy, software development, audit, code review, and technical analysis of software projects |
@@ -62,5 +62,5 @@ Upon termination of the agreement, the Processor shall delete or return all pers
 
 ---
 
-**Version:** 2025  
+**Version:** 2025.1
 **Issued by:** Second Arrow – info@secondarrow.io
